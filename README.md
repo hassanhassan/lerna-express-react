@@ -1,6 +1,10 @@
 # lerna-express-react
 
-To install package dependecies for server and client
+Project root to install lerna 
+
+npm install 
+
+Then install package dependecies for server and client
 
 npm run bootstrap
 
